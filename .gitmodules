@@ -1,0 +1,3 @@
+[submodule "MyCommon"]
+	path = MyCommon
+	url = git@github.com:VirajDaya/MyCommon.git
