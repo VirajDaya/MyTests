@@ -1,4 +1,5 @@
 <?php
+//RAPID-1540_2 Second Change
 //This comment is for Git Branch Test RAPID-1540->RAPID-1541->RAPID-1542
 /* $addAuditLogMessage = array() ; 
 $addAuditLogMessage2 = array() ; 
