@@ -1,5 +1,6 @@
 <?php
 
+//RAPID-1542_2 First Change after 949ca13772b7fb03ac35358b96515e244083590c RAPID-1540_2 : First Commit (Common) & e86aa560e13e2c997eae922c45c32bf8643e0354 (RAPID-1541_2 : First Commit after 949ca13772b7fb03ac35358b96515e244083590c) 
 
 $string = "This is a html string<br />
 Hi Mr Albert Lim. This question is a bit old but I<br />Let's look at the marco level. 200 years ago Sing<br />
