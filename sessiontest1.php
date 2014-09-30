@@ -1,5 +1,6 @@
 <?php
-
+// RAPID-1523_1 Second Change
+// RAPID-1523_1 First Change after Changes from RAPID-1540_2, RAPID-1541_2 and RAPID-1542_2
 // if (session_status() == PHP_SESSION_NONE) {
 
 // 	echo "Session not started!!!!";
